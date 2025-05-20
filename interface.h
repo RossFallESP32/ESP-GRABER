@@ -503,14 +503,14 @@ void OLED_printLogo(Adafruit_SSD1306 &display) {
   display.setTextSize(2);
   display.setTextWrap(false);
   display.setCursor(13, 24);
-  display.print("ESP-GRA");
+  display.print("GRA-BLE");
   display.setCursor(61, 40);
-  display.print(" BER");
+  display.print(" Jam");
   display.setTextSize(1);
   display.setCursor(12, 48);
-  display.print("v1.1");
+  display.print("433 Mhz");
   display.setCursor(7, 7);
-  display.print("by teapot174");
+  display.print("by Ross Fall");
   display.drawBitmap(93, 13, image_satellite_dish_bits, 15, 16, 1);
   display.display();
 }
