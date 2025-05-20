@@ -503,7 +503,7 @@ void OLED_printLogo(Adafruit_SSD1306 &display) {
   display.setTextSize(2);
   display.setTextWrap(false);
   display.setCursor(13, 24);
-  display.print("GRA-BLE");
+  display.print("GRA-BER");
   display.setCursor(61, 40);
   display.print(" Jam");
   display.setTextSize(1);
