@@ -22,7 +22,8 @@ ESP-GRABER — универсальный инструмент для работ
 - 🔍 **Считывание сигналов**  
 - 🔄 **Повтор сигналов**  
 - 📊 **Анализатор частот**  
-- 🛰️ **Глушилка (НЕЛЕГАЛЬНО)**  
+-
+ 🛰️ **Глушилка (НЕЛЕГАЛЬНО)**  
 - 💾 **Хранение сигналов (до 20 ключей)**  
 - 🚫 **Удаление сигналов**  
 
@@ -104,6 +105,9 @@ By using the firmware, you must comply with the laws of your region. The firmwar
 |**📺 Display**|VCC→3V3|GND→GND|SCL→G22|SDA→G21|-|-|-|
 |**🔘 Buttons**|UP(K1)→G27|DOWN(K2)→G26|OK(K3)→G33|BACK(K4)→G32|-|-|-|
 |**📡 CC1101**|1→GND|2→3V3|3→G2|4→G5|5→G18|6→G23 |7→G19|
+
+
+![Scheme](https://app.cirkitdesigner.com/project/9d5e9858-9a84-4dfb-bc23-a7225ab559ab)
 
 ### 📸 Final Result (YouTube)
 [![Watch the video](https://img.youtube.com/vi/qRX-z81Mjyg/maxresdefault.jpg)](https://www.youtube.com/watch?v=qRX-z81Mjyg)
